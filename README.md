@@ -52,8 +52,7 @@ _Community_
 
 _Corporate_
 
-- [Solid Inc](https://www.inrupt.com/) - The company tasked with helping Solid’s adoption and success.
-
+- [Inrupt Inc.](https://www.inrupt.com/) - The company tasked with helping Solid’s adoption and success.
 
 --------------------
 
