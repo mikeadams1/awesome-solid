@@ -102,7 +102,7 @@ _About Pods_
 _Find Pods_
 
 - [Get a POD!](https://solid.inrupt.com/get-a-solid-pod) - Grab a Pod and WebID here!
-- [Join Solid](https://joinsolid.org/) - Starting pod.
+- [Join Solid](https://solid.communinty/) - Starting pod.
 - [Test Space](https://solidtest.space/) - Testing pod.
 - [Authing.cn](https://solid.authing.cn/) - Another pod.
 
